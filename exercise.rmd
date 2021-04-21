@@ -1,7 +1,7 @@
 ---
 title: "Reproducible and Collaborative Practices"
 subtitle: "Tutorial 7"
-author: "Vivek"
+author: "Fan"
 institute: "Department of Econometrics and Business Statistics"
 output:
   pdf_document:
@@ -11,8 +11,7 @@ output:
     highlight: tango
 header-includes:
   - \usepackage{titling}
-  - \pretitle{\begin{center}
-    \includegraphics[width=5in,height=13in]{figs/front.jpg}
+  - \pretitle{\begin{center} \includegraphics[width=5in,height=13in]{Images/figure1.jpg}\LARGE\\}
   - \posttitle{\end{center}}
   - \usepackage{fontawesome}
   - \usepackage[most]{tcolorbox}
